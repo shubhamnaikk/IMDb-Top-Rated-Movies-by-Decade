@@ -93,11 +93,6 @@ This project analyzes the IMDb Top-250 movies and tracks trends by decade. You'l
 
 * **Insight:** Boxplots highlight the spread and outliers of ratings in each decade.
 
-## Embedding on Medium
-
-* Use the exported HTML or embed each chart image directly in your article.
-* Wrap code snippets in Markdown code fences for clarity.
-
 ## License
 
-MIT © Your Name
+MIT © Shubham Naik
