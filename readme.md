@@ -1,6 +1,6 @@
 # IMDb Top-250 Movies by Decade
 
-![Movies per Decade](movies_per_decade.png)
+![Movies per Decade](image.png)
 
 ## Overview
 
