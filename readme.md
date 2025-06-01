@@ -2,7 +2,7 @@
 
 ![Movies per Decade](image.png)
 
-## Overview
+## Overviewe
 
 This project analyzes the IMDb Top-250 movies and tracks trends by decade. You'll learn how to:
 
