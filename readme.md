@@ -1,4 +1,4 @@
-# IMDb Top-250 Movies by Decadewwewe
+# IMDb Top-250 Movies by Decade
 
 ![Movies per Decade](image.png)
 
